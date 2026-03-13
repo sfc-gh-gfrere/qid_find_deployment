@@ -1,1 +1,1 @@
-Ember Crook's script for finding Snowflake Deployment form a query_id. 
+Ember Crook's script for finding Snowflake Deployment from a query_id. 
